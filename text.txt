@@ -1,1 +1,2 @@
 This is first line of this fileThis is seconde line of this file which from [D[D[D[D[D[D is from freatrue1 branch
+Logo alignment is centered
